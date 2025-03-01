@@ -1,2 +1,3 @@
-# TO-DO-LIST
-I created an interactive to-do list using HTML, CSS, and JavaScript that helps users manage their tasks effectively. 
+I created an interactive to-do list using HTML, CSS, and JavaScript that helps users manage their tasks effectively. The HTML structure includes input fields for adding tasks and a list to display them. CSS enhances the visual appeal with stylish layouts and colors, making it user-friendly. JavaScript adds functionality, allowing users to add, edit, and delete tasks, as well as mark them as complete. This combination of technologies ensures a smooth and enjoyable user experience, making task management both efficient and fun.
+
+![list](https://github.com/user-attachments/assets/6e8ae393-4af2-4418-9b12-1bd10a3c3603)
